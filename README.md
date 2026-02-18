@@ -1,6 +1,6 @@
 # Innovgenius - AI Observability Platform for Banking
 
-A comprehensive AI observability and monitoring platform designed for banking applications, providing real-time monitoring, fraud detection, loan prediction, and AI chatbot capabilities.To integrate it with the existing system you just need to get the credentials from our website and then within one line of code the system will be integrated with our dashboard.
+A comprehensive AI observability and monitoring platform designed for banking applications, providing real-time monitoring, fraud detection, loan prediction, and AI chatbot capabilities.To integrate it with the existing system you just need to get the credentials from our website and then within one line of code the system will be integrated with our dashboard..
 
 ## 🏗️ System Architecture
 
