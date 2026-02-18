@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+virtualenv/
+
+# ML Models and Data Files
+models/*.pkl
+models/*.h5
+models/*.model
+models/*.pth
+models/*.pt
+models/*.ckpt
+models/*.pb
+*.pkl
+*.h5
+*.model
+*.pth
+*.pt
+*.ckpt
+*.pb
+
+# Data files
+*.csv
+*.json
+*.parquet
+*.feather
+data/
+datasets/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
