@@ -1,10 +1,8 @@
 flask
-fastapi
-uvicorn
+flask-cors
 pandas
 scikit-learn
 xgboost
 joblib
 python-dotenv
-pydantic
 google-generativeai
